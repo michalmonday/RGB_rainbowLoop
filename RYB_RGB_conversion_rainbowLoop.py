@@ -1,7 +1,4 @@
 '''
-Example based on the formula from the following page:
-https://www.rapidtables.com/convert/color/hsv-to-rgb.html
-
 RYB to RGB conversion is based on the work of Nathan Gossett and Baoquan Chen
 https://bahamas10.github.io/ryb/assets/ryb.pdf
 '''
